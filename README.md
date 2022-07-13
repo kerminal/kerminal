@@ -8,4 +8,4 @@
 -------------------------------------------------------------------------
 - 🏃 Use code "55YT1NYNA3" at <https://cyberwirehosting.com/> for 10% off❗
 
-[Tiny's GitHub stats](https://github-readme-stats.vercel.app/api?username=tinywhenwet)
+[![Tiny's GitHub stats](https://github-readme-stats.vercel.app/api?username=tinywhenwet)]
