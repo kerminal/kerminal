@@ -4,10 +4,6 @@
 > [ProductionRP](https://www.productionrp.net/)
 > 
 > [Luxe RP](https://discord.gg/luxeroleplay)
-> 
-> [LSDPSRP](https://lsdpsrp.net/)
-> 
-> [Hydra RP](https://discord.gg/hydrarp)
 
 
 
