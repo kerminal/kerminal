@@ -2,8 +2,6 @@
 
 - 🔭 Things I am currently working on but not limited to:
 > [ProductionRP](https://www.productionrp.net/)
-> 
-> [Luxe RP](https://discord.gg/luxeroleplay)
 >
 > [Red Dawn](https://discord.gg/e8wWYUNZSN)
 
