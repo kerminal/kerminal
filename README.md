@@ -6,10 +6,12 @@
 > [Adonia Roleplay](https://discord.gg/adoniarp)
 >
 > [Red Dawn](https://discord.gg/e8wWYUNZSN)
+> 
+> [Kentucky Roleplay](https://discord.gg/tVDZQPx9wb)
 
 
 
-- 💬 Ask me about a fully functional plug and play ready to go custom FiveM framework. (Servers currently using this framework are Overtime RP, Hydra RP and Nonstop RP.)
+- 💬 Ask me about a fully functional plug and play ready to go custom FiveM framework. (Servers currently using this framework are Overtime RP, Kentucky RP. Nonstop 1.0 also used to use this same framework.)
 - 📧 How to reach me: tinytankproductions@gmail.com
 - 🎂 My birthday is October 15th.
 
