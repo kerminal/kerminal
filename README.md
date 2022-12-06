@@ -7,8 +7,6 @@
 >
 > [Red Dawn](https://discord.gg/e8wWYUNZSN)
 > 
-> [Kentucky Roleplay](https://discord.gg/tVDZQPx9wb)
-> 
 > Malware Analysis
 > 
 > Unity
