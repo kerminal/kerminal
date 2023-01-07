@@ -5,7 +5,7 @@
 
 - [Texture Seed](https://textureseed.com/) | 🛠️ Developer 🛠️
 
-We generated thousands of seamless textures with SD, PBR maps with a pix2pix cGAN, and upscaled with R-ESRGAN. I had to modify the models slightly for cGAN and R-ESRGAN to be properly tiling, along with a lot of fine tuning of the outputs.
+We generated thousands of seamless textures with SD, PBR maps with a pix2pix cGAN, and upscaled with R-ESRGAN. We had to modify the models slightly for cGAN and R-ESRGAN to be properly tiling, along with a lot of fine tuning of the outputs.
 
 The results can be found and downloaded here: [Texture Seed Website](https://textureseed.com/) | [Texture Seed Discord](https://discord.gg/7mEF9rjB4f)
 
