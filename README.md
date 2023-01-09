@@ -9,6 +9,8 @@ We generated thousands of seamless textures with SD, PBR maps with a pix2pix cGA
 
 The results can be found and downloaded here: [Texture Seed Website](https://textureseed.com/) | [Texture Seed Discord](https://discord.gg/7mEF9rjB4f)
 
+| [Check out the main developer for Texture Seed](https://github.com/Jameslroll) |
+
 - [Production RP](https://productionrp.net/) | 🛠️ Developer 🛠️
 
 Production RP is a roleplay server more focused on serious role-play from all aspects of live utilizing the FiveM platform and GTA 5.
