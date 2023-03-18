@@ -30,8 +30,6 @@ You can find Production RP here: [Production RP Website](https://productionrp.ne
 >
 > [Adonia Roleplay](https://discord.gg/adoniarp)
 >
-> [Red Dawn](https://discord.gg/e8wWYUNZSN)
-> 
 > Unity
 > 
 ## 💬 Ask me about a fully functional plug and play ready to go custom FiveM framework. (Servers currently using this framework are Overtime RP and Sunrise 3.0. Nonstop 1.0 also used this framework.) 
