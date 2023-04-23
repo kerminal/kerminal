@@ -23,7 +23,8 @@ We generated thousands of seamless textures with SD, PBR maps with a pix2pix cGA
 - 🎮 [ProductionRP](https://www.productionrp.net/)
 - 🎨 [Texture Seed](https://textureseed.com/)
 - 🛡️ Malware Analysis
-- 🌆 [Adonia Roleplay](https://discord.gg/adoniarp)
+- A [Adonia Roleplay](https://discord.gg/adoniarp)
+- D [Doll Deluxe](https://discord.gg/P8KqqcDWnh)
 - 🕹️ Unity
 - 🤠 RedM Framework
 
