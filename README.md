@@ -15,7 +15,7 @@ Production RP is a roleplay server more focused on serious role-play from all as
 ### 💡 Project Manager / Developer | [Texture Seed](https://textureseed.com/) <img src="https://media.giphy.com/media/pO6VirqF04cgEUVbzS/giphy.gif" width="30px"/>
 We generated thousands of seamless textures with SD, PBR maps with a pix2pix cGAN, and upscaled with R-ESRGAN. We had to modify the models slightly for cGAN and R-ESRGAN to be properly tiling, along with a lot of fine tuning of the outputs.
 
-- 🌐 [Texture Seed Website](https://textureseed.com/)
+- 🌐 [Texture Seed Website] (ARCHIVED)
 - 💬 [Texture Seed Discord](https://discord.gg/7mEF9rjB4f)
 - 🌟 [Check out the main developer for Texture Seed - Jen](https://github.com/JenMaki)
 
