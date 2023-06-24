@@ -44,8 +44,10 @@ And hey, don't forget to wish me a happy birthday on October 15th! 🎂
 
 ---
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kerminal&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerminal&layout=compact&langs_count=7&theme=dark&hide_progress=true"/>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kerminal&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerminal&layout=compact&langs_count=7&theme=dark&hide_progress=true"/>
+</div>
 
 ---
 
