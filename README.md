@@ -1,42 +1,54 @@
-# ____***Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>***____
+<div align="center">
 
-## 😎 **About Me**
-Simple guy in my mid-20s with a passion for tackling complex challenges in the ever-evolving world of technology. As an American, I love breaking things and fixing them. In my free time, I indulge in cybersecurity activities, exploring the depths of digital vulnerabilities.
+# **Welcome to My GitHub Profile!** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-## 🔥 **Highlighted Projects**
+</div>
 
-### <img src="https://www.productionrp.net/assets/img/Logo_Mini.png" width="30px"/> Project Manager / Moderator | [Production RP](https://productionrp.net/) <img src="https://www.productionrp.net/assets/img/Logo_Mini.png" width="30px"/>
-Production RP is a roleplay server more focused on serious role-play from all aspects of life utilizing the FiveM platform and GTA 5.
+<div align="center">
+  <h2>About Me 🧑‍💻</h2>
+</div>
 
-- 🌐 [Production RP Website](https://productionrp.net/)
-- 💬 [Production RP Discord](https://discord.gg/productionrp)
-- 🖥️ [Production RP Core](https://core.productionrp.net)
+Hello there! I'm a tech enthusiast in my mid-20s, passionate about tackling complex challenges in our rapidly evolving technological landscape. As an American, I believe in the power of deconstructing and reconstructing things to gain a deeper understanding. My passions extend from coding in a variety of languages, including LUA, C++, C#, C, JS, TypeScript, PowerShell, Go, Rust, Java, and more, to exploring the fascinating world of cybersecurity. When I'm not creating innovative tech solutions, you'll find me immersing myself in the world of gaming, forever in pursuit of my next digital adventure.
 
-### 💡 Project Manager / Developer | [Texture Seed] (ARCHIVED) <img src="https://media.giphy.com/media/pO6VirqF04cgEUVbzS/giphy.gif" width="30px"/>
-We generated thousands of seamless textures with SD, PBR maps with a pix2pix cGAN, and upscaled with R-ESRGAN. We had to modify the models slightly for cGAN and R-ESRGAN to be properly tiling, along with a lot of fine tuning of the outputs.
+<div align="center">
+  <a href="https://productionrp.net/">
+    <img src="https://www.productionrp.net/assets/img/Logo_Mini.png" width="30px"/>
+  </a>
+</div>
 
-- 🌐 [Texture Seed Website] (ARCHIVED)
-- 💬 [Texture Seed Discord](https://discord.gg/7mEF9rjB4f)
-- 🌟 [Check out the main developer for Texture Seed - Jen](https://github.com/JenMaki)
+<h2 align="center">Project Manager / Moderator | <a href="https://productionrp.net/">Production RP</a></h2>
 
-## 🎯 **Current Projects** <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30px"/>
-- 🎮 [ProductionRP](https://www.productionrp.net/)
-- 🎨 [Texture Seed](https://textureseed.com/)
-- 🛡️ Malware Analysis
-- A [Adonia Roleplay](https://discord.gg/adoniarp)
-- D [Doll Deluxe](https://discord.gg/P8KqqcDWnh)
-- 🕹️ Unity
-- 🤠 RedM Framework
+Production RP is a comprehensive roleplay server dedicated to promoting serious role-play across all walks of life, utilizing the capabilities of the FiveM platform and GTA 5.
 
-## 🤔💬 Ask me about a fully functional plug and play ready to go custom FiveM framework. <img src="https://media.giphy.com/media/3ohzdYJK1wAdPWVk88/giphy.gif" width="30px"/>
-(Servers currently using this framework are Overtime RP, Sunrise 3.0, Prosperity, and Nonstop 1.0.)
+- 🌐 [Check out the Production RP Website](https://productionrp.net/)
+- 💬 [Join our Production RP Discord Community](https://discord.gg/productionrp)
+- 🖥️ [Dive into the Production RP Core](https://core.productionrp.net)
 
-📫 How to reach me: [tiny@tinywhenwet.dev](mailto:tiny@tinywhenwet.dev)
+<div align="center">
+  <h2>Let's Discuss 🗣️</h2>
+</div>
 
-🎂 My birthday is October 15th.
+Interested in a fully functional, plug-and-play custom FiveM framework? I'm all ears! (Fun Fact: Servers like Overtime RP and Nonstop 1.0 are currently thriving with this framework.)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=tinywhenwet&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+Feel free to reach me at:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TinyWhenWet&show_icons=true&theme=tokyonight)
+- 📧 [contact@kerminal.net](mailto:contact@kerminal.dev)
+- 💬 Discord: kerminal
+- 🐦 [Twitter: @KernelKeeper](https://twitter.com/KernelKeeper)
+- 📷 [TikTok: @KernelKeeper](https://www.tiktok.com/@KernelKeeper)
+- 🌐 [My Personal Website](http://kerminal.net)
 
-![Profile views](https://gpvc.arturio.dev/tinywhenwet)
+And hey, don't forget to wish me a happy birthday on October 15th! 🎂
+
+<div align="center">
+
+---
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kerminal&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerminal&layout=compact&langs_count=7&theme=dark&hide_progress=true"/>
+
+---
+
+<img src="https://github.com/kerminal/kerminal/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+
+</div>
