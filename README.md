@@ -40,12 +40,12 @@ Feel free to reach me at:
 
 And hey, don't forget to wish me a happy birthday on October 15th! 🎂
 
-<div align="center">
+<div align="center"></div>
 
 ---
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kerminal&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://githubstats-git-main-kerminal.vercel.app/api?username=kerminal&show_icons=true&rank_icon=github&theme=dark&include_all_commits=true&show=reviews,discussions_started,discussions_answered"/>
 </p>
 
 <p align="center">
