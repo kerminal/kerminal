@@ -8,7 +8,7 @@
   <h2>About Me 🧑‍💻</h2>
 </div>
 
-Hello there! I'm a tech enthusiast in my mid-20s, passionate about tackling complex challenges in our rapidly evolving technological landscape. As an American, I believe in the power of deconstructing and reconstructing things to gain a deeper understanding. My passions extend from coding in a variety of languages, including LUA, C++, C#, C, JS, TypeScript, PowerShell, Go, Rust, Java, and more, to exploring the fascinating world of cybersecurity. When I'm not creating innovative tech solutions, you'll find me immersing myself in the world of gaming, forever in pursuit of my next digital adventure.
+Hello there! I'm a tech enthusiast in my mid-20s, passionate about tackling complex challenges in our rapidly evolving technological landscape. As an American, I believe in the power of deconstructing and reconstructing things to gain a deeper understanding. My passions extend from coding in a variety of languages to exploring the fascinating world of cybersecurity. When I'm not creating innovative tech solutions, you'll find me immersing myself in the world of gaming, forever in pursuit of my next digital adventure.
 
 <div align="center">
   <a href="https://productionrp.net/">
@@ -46,6 +46,20 @@ And hey, don't forget to wish me a happy birthday on October 15th! 🎂
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kerminal&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LUA-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white" alt="LUA">
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell">
+  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white" alt="Go">
+  <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white" alt="Rust">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=flat-square&logo=vue-dot-js&logoColor=white" alt="Vue.js">
 </p>
 
 ---
