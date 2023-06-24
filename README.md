@@ -45,10 +45,6 @@ And hey, don't forget to wish me a happy birthday on October 15th! 🎂
 ---
 
 <p align="center">
-  <img height="180em" src="https://githubstats-git-main-kerminal.vercel.app/api?username=kerminal&show_icons=true&rank_icon=github&theme=dark&include_all_commits=true&show=reviews,discussions_started,discussions_answered"/>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/LUA-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white" alt="LUA">
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
