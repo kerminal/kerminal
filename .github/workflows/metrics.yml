@@ -71,7 +71,7 @@ jobs:
           plugin_wakatime_user: Sersoid
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
 
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
           build_dir: dist
