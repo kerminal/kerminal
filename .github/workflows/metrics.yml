@@ -53,23 +53,11 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used, recently-used
           plugin_languages_threshold: 0%
-          plugin_leetcode: yes
-          plugin_leetcode_limit_recent: 2
-          plugin_leetcode_limit_skills: 10
-          plugin_leetcode_sections: solved
-          plugin_leetcode_user: Kerminal
           plugin_lines: yes
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
           plugin_traffic: yes
-          plugin_wakatime: yes
-          plugin_wakatime_days: 365
-          plugin_wakatime_limit: 10
-          plugin_wakatime_repositories_visibility: all
-          plugin_wakatime_sections: time, languages, languages-graphs
-          plugin_wakatime_user: Sersoid
-          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
