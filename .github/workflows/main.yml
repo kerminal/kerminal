@@ -1,4 +1,4 @@
-name: Generate Datas
+name: Snake SVG Animation
 
 on:
   schedule:
@@ -7,10 +7,11 @@ on:
 
 jobs:
   build:
-    name: Jobs to update datas
+    name: Generate and Update Snake SVG
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repository
+      - name: Checkout Repository
         uses: actions/checkout@v2
 
       - name: Setup Node.js
@@ -18,17 +19,17 @@ jobs:
         with:
           node-version: 14
 
-      - name: Install dependencies
+      - name: Install Dependencies
         run: npm install
 
-      - name: Generate SVG
+      - name: Generate Snake SVG
         run: npm run generate-svg
 
-      - name: Commit and push changes
+      - name: Commit and Push Changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git checkout -b update-snake-svg
+          git checkout output
           git add .
           git commit -m "Update snake SVG"
-          git push origin update-snake-svg
+          git push origin output
