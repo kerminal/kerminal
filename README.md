@@ -28,7 +28,6 @@ Production RP is a comprehensive roleplay server dedicated to promoting serious 
   <h2>Let's Discuss 🗣️</h2>
 </div>
 
-Interested in a fully functional, plug-and-play custom FiveM framework? I'm all ears! (Fun Fact: Servers like Overtime RP and Nonstop 1.0 are currently thriving with this framework.)
 
 Feel free to reach me at:
 
@@ -38,7 +37,7 @@ Feel free to reach me at:
 - 📷 [TikTok: @KernelKeeper](https://www.tiktok.com/@KernelKeeper)
 - 🌐 [My Personal Website](http://kerminal.net)
 
-And hey, don't forget to wish me a happy birthday on October 15th! 🎂
+Don't forget to wish me a happy birthday on October 15th! 🎂
 
 <div align="center"></div>
 
