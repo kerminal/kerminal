@@ -25,9 +25,12 @@ Production RP is a comprehensive roleplay server dedicated to promoting serious 
 - 🖥️ [Dive into the Production RP Core](https://core.productionrp.net)
 
 <div align="center">
-  <h2>Let's Discuss 🗣️</h2>
+  <h2>Let's Discuss</h2>
 </div>
 
+<p align="center">
+	<img width="40" src="https://github.githubassets.com/images/mona-loading-default.gif">
+</p>
 
 Feel free to reach me at:
 
@@ -42,6 +45,10 @@ Don't forget to wish me a happy birthday on October 15th! 🎂
 <div align="center"></div>
 
 ---
+
+<p align="center">
+  <img align="center" src="https://githubstats-pu33bhpi6-kerminal.vercel.app/api/top-langs/?username=kerminal&size_weight=0.5&count_weight=0.5&langs_count=20&layout=donut-vertical&CACHE_SECONDS=10&custom_title=Language Collection"/>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/LUA-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white" alt="LUA">
