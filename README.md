@@ -47,10 +47,6 @@ Don't forget to wish me a happy birthday on October 15th! 🎂
 ---
 
 <p align="center">
-  <img align="center" src="https://githubstats-pu33bhpi6-kerminal.vercel.app/api/top-langs/?username=kerminal&size_weight=0.5&count_weight=0.5&langs_count=20&layout=donut-vertical&CACHE_SECONDS=10&custom_title=Language Collection"/>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/LUA-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white" alt="LUA">
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
@@ -63,10 +59,6 @@ Don't forget to wish me a happy birthday on October 15th! 🎂
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=flat-square&logo=vue-dot-js&logoColor=white" alt="Vue.js">
 </p>
-
----
-
-<img src="https://github.com/kerminal/kerminal/blob/output/github-metrics.svg"/>
 
 ---
 
