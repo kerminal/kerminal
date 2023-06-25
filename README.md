@@ -66,6 +66,10 @@ Don't forget to wish me a happy birthday on October 15th! 🎂
 
 ---
 
-<img src="https://github.com/kerminal/kerminal/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+<img src="https://github.com/kerminal/kerminal/blob/output/github-metrics.svg"/>
+
+---
+
+<img src="https://github.com/kerminal/kerminal/blob/output/github-contribution-grid-snake.svg"/>
 
 </div>
