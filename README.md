@@ -1,7 +1,7 @@
 <div align="center">
-
-# **Welcome to My GitHub Profile!** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-
+	<a href="https://github.com/yumiruuwu">
+  		<img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&duration=2000&pause=1000&color=F78D27&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Oh%2C+hi+there+%F0%9F%91%8B;Welcome+to+my+profile"/>  
+	</a>
 </div>
 
 <div align="center">
