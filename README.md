@@ -16,7 +16,7 @@ Hello there! I'm a tech enthusiast in my mid-20s, passionate about tackling comp
   </a>
 </div>
 
-<h2 align="center">Project Manager / Moderator | <a href="https://productionrp.net/">Production RP</a></h2>
+<h2 align="center">Integrated Systems & Operations Director | <a href="https://productionrp.net/">Production RP</a></h2>
 
 Production RP is a comprehensive roleplay server dedicated to promoting serious role-play across all walks of life, utilizing the capabilities of the FiveM platform and GTA 5.
 
