@@ -1,46 +1,56 @@
 <div align="center">
-	<a href="https://github.com/yumiruuwu">
-  		<img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&duration=2000&pause=1000&color=F78D27&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Oh%2C+hi+there+%F0%9F%91%8B;Welcome+to+my+profile"/>  
-	</a>
+    <a href="https://github.com/yumiruuwu">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&duration=2000&pause=1000&color=F78D27&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Oh%2C+hi+there+%F0%9F%91%8B;Welcome+to+my+tech+universe"/>
+    </a>
 </div>
 
 <div align="center">
-  <h2>About Me 🧑‍💻</h2>
+    <h2>About Me 🧑‍💻</h2>
 </div>
 
-Hello there! I'm a tech enthusiast in my mid-20s, passionate about tackling complex challenges in our rapidly evolving technological landscape. As an American, I believe in the power of deconstructing and reconstructing things to gain a deeper understanding. My passions extend from coding in a variety of languages to exploring the fascinating world of cybersecurity. When I'm not creating innovative tech solutions, you'll find me immersing myself in the world of gaming, forever in pursuit of my next digital adventure.
+Greetings, digital wanderers! Many in the vast expanses of the cyber realm know me as "Kerminal". My journey began as a self-taught enthusiast, skillfully navigating through the intricate terrains of networking, systems engineering, and game server management.
+
+My fascination doesn't end with networking; I'm profoundly drawn to the fields of malware analysis, research, and threat assessments. Peeling back the layers of digital threats and ensuring a safer digital environment has become a calling of mine.
+
+Equally captivating is the world of game development. There's an undeniable allure in crafting immersive digital realms and orchestrating vibrant virtual adventures.
+
+As an open-source advocate, I grapple with the push and pull of sharing my creations while acknowledging the inherent hesitations that come with unfinished or evolving projects. Yet, every day propels me towards contributing more and embracing the collective strength of the community.
+
+Beyond the codes and pixels, the harmonious notes of music are my grounding force. My overarching mission? To amplify the online experience for everyone, championing a digital realm that's secure, enjoyable, and inclusive.
+
+Embark with me on this digital quest as we push boundaries, innovate, and shape the digital future.
 
 <div align="center">
-  <a href="https://productionrp.net/">
-    <img src="https://www.productionrp.net/assets/img/Logo_Mini.png" width="30px"/>
-  </a>
+    <a href="https://productionrp.net/">
+        <img src="https://www.productionrp.net/assets/img/Logo_Mini.png" width="30px"/>
+    </a>
 </div>
 
 <h2 align="center">Integrated Systems & Operations Director | <a href="https://productionrp.net/">Production RP</a></h2>
 
-Production RP is a comprehensive roleplay server dedicated to promoting serious role-play across all walks of life, utilizing the capabilities of the FiveM platform and GTA 5.
+Production RP is an all-encompassing roleplay server celebrating serious role-play adventures, powered by the FiveM platform and GTA 5.
 
-- 🌐 [Check out the Production RP Website](https://productionrp.net/)
-- 💬 [Join our Production RP Discord Community](https://discord.gg/productionrp)
-- 🖥️ [Dive into the Production RP Core](https://core.productionrp.net)
+- 🌐 [Journey into Production RP's Universe](https://productionrp.net/)
+- 💬 [Engage with the vibrant Production RP Discord Community](https://discord.gg/productionrp)
+- 🖥️ [Peek into the Production RP Core](https://core.productionrp.net)
 
 <div align="center">
-  <h2>Let's Discuss</h2>
+    <h2>Let's Connect and Collaborate</h2>
 </div>
 
 <p align="center">
-	<img width="40" src="https://github.githubassets.com/images/mona-loading-default.gif">
+    <img width="40" src="https://github.githubassets.com/images/mona-loading-default.gif">
 </p>
 
-Feel free to reach me at:
+Keen to delve into discussions about tech, gaming, or just share some good tracks? Reach out:
 
-- 📧 [contact@kerminal.net](mailto:contact@kerminal.dev)
+- 📧 [Drop me an email](mailto:contact@kerminal.dev)
 - 💬 Discord: kerminal
 - 🐦 [Twitter: @KernelKeeper](https://twitter.com/KernelKeeper)
-- 📷 [TikTok: @KernelKeeper](https://www.tiktok.com/@KernelKeeper)
-- 🌐 [My Personal Website](http://kerminal.net)
+- 📷 [Join my TikTok journey: @KernelKeeper](https://www.tiktok.com/@KernelKeeper)
+- 🌐 [Venture into My Personal Domain](http://kerminal.net)
 
-Don't forget to wish me a happy birthday on October 15th! 🎂
+And hey, mark October 15th on your calendar. I wouldn't say no to birthday wishes! 🎂
 
 <div align="center"></div>
 
@@ -59,9 +69,5 @@ Don't forget to wish me a happy birthday on October 15th! 🎂
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=flat-square&logo=vue-dot-js&logoColor=white" alt="Vue.js">
 </p>
-
----
-
-<img src="https://github.com/kerminal/kerminal/blob/output/github-contribution-grid-snake.svg"/>
 
 </div>
