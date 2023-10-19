@@ -44,7 +44,7 @@ Production RP is an all-encompassing roleplay server celebrating serious role-pl
 
 Keen to delve into discussions about tech, gaming, or just share some good tracks? Reach out:
 
-- 📧 [Drop me an email](mailto:contact@kerminal.dev)
+- 📧 [Drop me an email](mailto:contact@kerminal.net)
 - 💬 Discord: kerminal
 - 🐦 [Twitter: @KernelKeeper](https://twitter.com/KernelKeeper)
 - 📷 [Join my TikTok journey: @KernelKeeper](https://www.tiktok.com/@KernelKeeper)
