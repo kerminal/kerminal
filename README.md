@@ -21,18 +21,18 @@ Beyond the codes and pixels, the harmonious notes of music are my grounding forc
 Embark with me on this digital quest as we push boundaries, innovate, and shape the digital future.
 
 <div align="center">
-    <a href="https://productionrp.net/">
-        <img src="https://www.productionrp.net/assets/img/Logo_Mini.png" width="30px"/>
+    <a href="https://productionrp.org/">
+        <img src="https://www.productionrp.org/assets/img/Logo_Mini.png" width="30px"/>
     </a>
 </div>
 
-<h2 align="center">Integrated Systems & Operations Director | <a href="https://productionrp.net/">Production RP</a></h2>
+<h2 align="center">Integrated Systems & Operations Director | <a href="https://productionrp.org/">Production RP</a></h2>
 
 Production RP is an all-encompassing roleplay server celebrating serious role-play adventures, powered by the FiveM platform and GTA 5.
 
-- 🌐 [Journey into Production RP's Universe](https://productionrp.net/)
+- 🌐 [Journey into Production RP's Universe](https://productionrp.org/)
 - 💬 [Engage with the vibrant Production RP Discord Community](https://discord.gg/productionrp)
-- 🖥️ [Peek into the Production RP Core](https://core.productionrp.net)
+- 🖥️ [Peek into the Production RP Core](https://core.productionrp.org)
 
 <div align="center">
     <h2>Let's Connect and Collaborate</h2>
