@@ -22,7 +22,7 @@ Embark with me on this digital quest as we push boundaries, innovate, and shape 
 
 <div align="center">
     <a href="https://productionrp.org/">
-        <img src="https://www.productionrp.org/assets/img/Logo_Mini.png" width="30px"/>
+        <img src="https://www.productionrp.org/assets/logo-IpLcXXlq.png" width="30px"/>
     </a>
 </div>
 
