@@ -28,11 +28,11 @@ Embark with me on this digital quest as we push boundaries, innovate, and shape 
 
 <h2 align="center">Co-Owner | <a href="https://productionrp.org/">Production RP</a></h2>
 
-Production RP is an all-encompassing roleplay server celebrating role-play adventures, powered by the FiveM platform and GTA 5. I am a co-owner of the said community as well as a developer, sharing equal ownership with the original founder [Ghost](https://github.com/GhostDaGhost).
+Production RP is an all-encompassing roleplay server celebrating adventures and all walks of life via roleplay, powered by the FiveM platform and GTA 5. I am a co-owner of said community as well as a developer, sharing equal ownership with the original founder [Ghost](https://github.com/GhostDaGhost).
 
-- 🌐 [Journey into Production RP's Universe](https://productionrp.net/)
+- 🌐 [Journey into Production RP's Universe](https://productionrp.org/)
 - 💬 [Engage with the vibrant Production RP Discord Community](https://discord.gg/productionrp)
-- 🖥️ [Peek into the Production RP Core](https://core.productionrp.net)
+- 🖥️ [Peek into the Production RP Core](https://core.productionrp.org)
 
 <div align="center">
     <h2>Let's Connect and Collaborate</h2>
